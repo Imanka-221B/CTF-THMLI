@@ -3,7 +3,7 @@
 <html lang="en-US">
 <head>
   <meta charset="UTF-8" />
-  <title>Page not found - Shelly..</title>
+  <title>Page not found - Shelly</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <link href="style.css" rel="stylesheet" />
   <script defer src="main.js"></script>
