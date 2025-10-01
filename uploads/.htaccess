@@ -1,0 +1,3 @@
+# WARNING: This is intentionally insecure for the training room.
+AddType application/x-httpd-php .php .phtml .php5 .php7
+php_flag engine on
