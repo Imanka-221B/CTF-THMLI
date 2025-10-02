@@ -11,7 +11,7 @@
 <body class="bg">
   <header class="nav">
     <div class="brand">
-      <img src="assets/logo.png" alt="Shelly" class="logo" />
+      <img src="assets/logo.jpeg" alt="Shelly" class="logo" />
       <span class="brand-name">Shelly</span>
     </div>
     <nav>
